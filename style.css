@@ -3,7 +3,7 @@ html {
 	background-repeat: repeat;
 }
 
-body { /*щось тут непральне */
+body { 
 	background-image: url(BA_new_icon.png);
 	background-position: top right;
 	background-attachment: fixed;
