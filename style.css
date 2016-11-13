@@ -1,0 +1,113 @@
+html {
+	background-image: url(seigaiha.png);
+	background-repeat: repeat;
+}
+
+body { /*щось тут непральне */
+	background-image: url(BA_new_icon.png);
+	background-position: top right;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: sans-serif;
+	color: #333;
+	text-align: center;
+}
+
+h2 {
+	font-size: 20px;
+	font-family: cursive;
+	color: #ccc;
+	text-align: center;
+}
+.top {
+	ont-size: 16px;
+	font-family: sans-serif;
+	color: #888;
+	font-weight: bold;
+ }
+
+ ul {
+ 	text-align: center;
+ 	font-family: sans-serif;
+ 	font-variant: small-caps;
+ 	list-style-type: none;
+	font-size: 30px;
+}
+.content_link {
+	text-decoration: none;
+}
+
+.content_li:active {
+	text-decoration: overline;
+}
+
+.content_li:hover {
+	background: #eee;
+	list-style-image: url(short_arrow_right-512.png);
+}
+
+.content_link:hover {
+	color: #333;
+}
+
+.content_link:visited {
+	color: #a9a;
+}
+
+.name {
+	font-size: 35px;
+	font-weight: bold;
+	font-family: cursive;
+	text-align: justify;
+}
+
+.details:first-letter {
+	font-size: 2em;
+	color: #ea3;
+}
+
+.details:first-line {
+	font-size: 1.3em;
+	color: #a83;
+}
+
+.details {
+	text-indent: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #222;
+	text-align: justify;
+	font-family: cursive;
+}
+
+.end {
+	font 18px;
+	font-family: Verdana;
+	text-align: center;
+
+}
+
+.tr-top {
+	background: #666;
+	color: white;
+}
+
+#tr-bottom:hover {
+	background: #ccc;
+}
+
+#tr-bottom-5 {
+	background: #a83;
+}
+
+#tr-bottom-5:hover {
+	background: #ccc;
+}
+
+#tr-bottom-5 {
+	background: #a83;
+	color: white;
